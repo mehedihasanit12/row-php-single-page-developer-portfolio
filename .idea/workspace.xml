@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a96374f4-05f0-4c29-bc75-43c9686979bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2qWWVEOvBXr2oXxuEjIiy7Y3jgg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Database/db-practice" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a96374f4-05f0-4c29-bc75-43c9686979bb" name="Default Changelist" comment="" />
+      <created>1734778832393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734778832393</updated>
+      <workItem from="1734778833744" duration="10322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="181" key="FileChooserDialogImpl" timestamp="1734788517762">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="580" y="181" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1734788517762" />
+    <state x="592" y="133" key="NewPhpClassDialog" timestamp="1734788123604">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="592" y="133" key="NewPhpClassDialog/0.0.1600.852@0.0.1600.852" timestamp="1734788123604" />
+    <state x="634" y="345" key="NewPhpFileDialog" timestamp="1734789191280">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="634" y="345" key="NewPhpFileDialog/0.0.1600.852@0.0.1600.852" timestamp="1734789191280" />
+    <state x="625" y="191" key="refactoring.ChangeSignatureDialog" timestamp="1734801694705">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="625" y="191" key="refactoring.ChangeSignatureDialog/0.0.1600.852@0.0.1600.852" timestamp="1734801694705" />
+  </component>
+</project>

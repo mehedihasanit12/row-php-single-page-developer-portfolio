@@ -1,0 +1,17 @@
+{
+  "name": "my-portfolio/my-portfolio",
+  "type": "project",
+  "description": "A simple portfolio php project",
+  "keywords": [],
+  "license": [],
+  "require": {
+    "ext-mysqli": "*"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    },
+    "files": ["app/helpers/helpers.php"]
+  }
+}
